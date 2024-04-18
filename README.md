@@ -1,4 +1,5 @@
 ### Hi there 👋
+Second Year BCT student learning at Khwopa College Of Engineering under IOE TU, hoping to contribute to the tech development world. 
 
 <!--
 **Ch1codes/Ch1codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
